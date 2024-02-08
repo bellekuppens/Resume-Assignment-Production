@@ -1,0 +1,78 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap" rel="stylesheet');
+
+body {
+	 font-family: "DM Serif Display", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.resume-header {
+    background-color: #deceff;
+}
+
+.resume-introduction {
+	font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: <400>;
+  font-style: normal;
+	
+}
+
+.resume-main {
+	background-color: #fffefc;
+}
+
+.resume-aside {
+	background-color: #C8EEE9;
+}
+
+.languages {
+	font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: <400>;
+  font-style: normal;
+}
+
+.other-skills {
+	font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: <400>;
+  font-style: normal;
+}
+
+.biography-details li::before, .skill-list li::before {
+	content: ">";
+	color: #f23797;
+	font-weight: 800;
+	display: inline-block;
+	width: 1em;
+	margin-left: -1em;
+}
+
+.biography-details li::before {
+	color: #f23797;
+}
+
+.biography-details li, .skill-list li{
+	padding-left: 1em;
+}
+
+.biography-details {
+	font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: <400>;
+  font-style: normal;
+}
+
+.interests-hobbies {
+	font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: <400>;
+  font-style: normal;
+}
+
+.contact-icon {
+	height: 1em;
+	flex-basis: 1.4em;
+}
