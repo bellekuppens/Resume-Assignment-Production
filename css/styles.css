@@ -41,6 +41,9 @@ body {
 }
 
 .languages_title {
+	font-family: "DM Serif Display", serif;
+  font-weight: 400;
+  font-style: normal;
 	color:#085A57
 }
 
@@ -64,6 +67,9 @@ body {
 }
 
 .other_skills_title {
+	font-family: "DM Serif Display", serif;
+  font-weight: 400;
+  font-style: normal;
 	color:#085A57
 }
 
@@ -99,6 +105,9 @@ body {
 }
 
 .interests_title {
+	font-family: "DM Serif Display", serif;
+  font-weight: 400;
+  font-style: normal;
 	color:#085A57
 }
 
