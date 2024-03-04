@@ -19,12 +19,29 @@ body {
 	
 }
 
+.professional_work_experience {
+	color:#532d84
+}
+
+.academic_background {
+	color:#532d84
+}
+
+
 .resume-main {
 	background-color: #fffefc;
 }
 
 .resume-aside {
 	background-color: #C8EEE9;
+}
+
+.contact_information {
+	color:#085A57
+}
+
+.languages_title {
+	color:#085A57
 }
 
 .languages {
@@ -34,11 +51,20 @@ body {
   font-style: normal;
 }
 
+.language-icon {
+	height: 1em;
+	flex-basis: 1.4em;
+}
+
 .other-skills {
 	font-family: "EB Garamond", serif;
   font-optical-sizing: auto;
   font-weight: <400>;
   font-style: normal;
+}
+
+.other_skills_title {
+	color:#085A57
 }
 
 .biography-details li::before, .skill-list li::before {
@@ -70,6 +96,10 @@ body {
   font-optical-sizing: auto;
   font-weight: <400>;
   font-style: normal;
+}
+
+.interests_title {
+	color:#085A57
 }
 
 .contact-icon {
